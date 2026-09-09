@@ -20,6 +20,4 @@ Este proyecto consiste en la creación de un sitio web para una agencia de turis
 ![Vista del sitio](images/hero.webp)
 
 ## URL del sitio publicado
-https://usuario.github.io/examen-final-turismo/
-
-> Reemplaza el nombre de usuario y el nombre del repositorio con tus datos reales antes de publicar en GitHub Pages.
+https://nparral-cell.github.io/agencia-turismo/
