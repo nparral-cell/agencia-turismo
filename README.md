@@ -21,3 +21,6 @@ Este proyecto consiste en la creación de un sitio web para una agencia de turis
 
 ## URL del sitio publicado
 https://nparral-cell.github.io/agencia-turismo/
+Version final del proyecto turistico fde Riobamba chinborazo
+
+
